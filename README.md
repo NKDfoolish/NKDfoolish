@@ -1,4 +1,4 @@
-# Hi everyone! My name's Duy ^^
+# Hey guys, I'm Duy, nice to meet you all ^^
 
 I'm a student at University of information technology
 
