@@ -4,6 +4,6 @@ I'm a student at University of information technology
 
 My major is Information System
 
-I aspire to become an expert in the field of Data.
+I aspire to become an expert in the field of Data enginner
 
 You can contact me through this Facebook account [My Facebook](https://www.facebook.com/nguyenkhanhduy.dilinh) or my email nguyenkhanhduy.dilinh@gmail.com
