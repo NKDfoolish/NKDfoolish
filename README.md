@@ -1,11 +1,6 @@
-# Welcome ^^
-
-I'm a student at University of information technology
-
-My major is Information System
-
 <h1 align="center">Hi 👋, I'm Duy Nguyen Khanh</h1>
 <h3 align="center">I aspire to become an expert in the field of Software engineer</h3>
+<h3 align="center">I'm a student at University of information technology - UIT</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nkdfoolish&label=Profile%20views&color=0e75b6&style=flat" alt="nkdfoolish" /> </p>
 
